@@ -1,0 +1,8 @@
+{
+  "name": "eng2027",
+  "version": "1.0.0",
+  "dependencies": {
+    "@capacitor/core": "latest",
+    "@capacitor/cli": "latest"
+  }
+}
